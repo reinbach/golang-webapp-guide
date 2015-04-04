@@ -1,0 +1,27 @@
+mode: set
+github.com/reinbach/golang-webapp-guide/test/server/main.go:15.60,19.2 3 1
+github.com/reinbach/golang-webapp-guide/test/server/main.go:21.61,25.2 3 0
+github.com/reinbach/golang-webapp-guide/test/server/main.go:27.64,30.2 1 1
+github.com/reinbach/golang-webapp-guide/test/server/main.go:32.13,39.2 5 0
+github.com/reinbach/golang-webapp-guide/test/template/context.go:7.28,9.2 1 0
+github.com/reinbach/golang-webapp-guide/test/template/context.go:11.54,12.21 1 1
+github.com/reinbach/golang-webapp-guide/test/template/context.go:15.2,15.23 1 1
+github.com/reinbach/golang-webapp-guide/test/template/context.go:12.21,14.3 1 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:16.36,18.16 2 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:22.2,22.54 1 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:25.2,25.22 1 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:28.2,28.10 1 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:18.16,20.3 1 0
+github.com/reinbach/golang-webapp-guide/test/template/render.go:22.54,24.3 1 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:25.22,27.3 1 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:31.60,34.27 3 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:42.2,42.21 1 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:34.27,36.17 2 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:36.17,40.4 3 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:45.50,47.26 2 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:50.2,50.14 1 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:47.26,49.3 1 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:53.92,58.16 4 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:61.2,62.16 2 1
+github.com/reinbach/golang-webapp-guide/test/template/render.go:58.16,60.3 1 0
+github.com/reinbach/golang-webapp-guide/test/template/render.go:62.16,64.3 1 0
