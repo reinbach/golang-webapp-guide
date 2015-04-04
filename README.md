@@ -18,7 +18,7 @@ There is an overview of the these sections at [http://reinbach.com](http://reinb
 
 ### Parts
 
-   * [Template](https://github.com/reinbach/golang-webapp-guide/tree/master/template)
+   * [Templating](https://github.com/reinbach/golang-webapp-guide/tree/master/template)
 
 ## License
 
