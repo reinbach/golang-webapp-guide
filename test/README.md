@@ -13,13 +13,13 @@ We create a Makefile to help with the running of various commands for us
 
 We can run individual tests with;
 
-   go test ./server/
-   go test ./template/
+    go test ./server/
+    go test ./template/
 
 Or we can make use of the Makefile commands
 
-   make test  # run the tests and create coverage files
-   make cov  # to open up browser and view the coverage reports
+    make test  # run the tests and create coverage files
+    make cov  # to open up browser and view the coverage reports
 
 
 ### Run Site
